@@ -1,3 +1,3 @@
 \>\> Hello World
 
-[![RailRound Stats](https://rail.s3xyseia.xyz/api/card?user=admin&v=3)](https://rail.s3xyseia.xyz)
+[![RailRound Stats](https://rail.s3xyseia.xyz/api/card?key=58a41bc3-f312-4337-a589-3cc3bc9ccd2d)](https://rail.s3xyseia.xyz)
